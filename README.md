@@ -9,6 +9,8 @@ Steps :
 3. Note: you might have to install the below dependencies  
         
         python3 -m pip install Pillow  
+        
+        =================================  
         tkinter and time are already included
       
   
